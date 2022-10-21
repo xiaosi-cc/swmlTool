@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swmlTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swmlTool_jar</output-path>
+    <root id="archive" name="swmlTool.jar">
+      <element id="module-output" name="swmlTool" />
+    </root>
+  </artifact>
+</component>
