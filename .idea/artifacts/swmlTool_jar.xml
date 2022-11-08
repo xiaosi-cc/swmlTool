@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/swmlTool_jar</output-path>
     <root id="archive" name="swmlTool.jar">
       <element id="module-output" name="swmlTool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/apksigner.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apksigner-v28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/apksigner-v28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
